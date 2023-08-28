@@ -1,7 +1,3 @@
-Sure, here's the combined README file for the repository that includes both the Button-Controlled LED Project and the Resisitive Sensor-Controlled LED and LCD Display:
-
----
-
 # Arduino Projects: Button-Controlled LED and Resisitive Sensor-Controlled LED/LCD
 
 This repository contains two Arduino projects that demonstrate how to control an LED using pushbuttons and a resistive sensor. One project uses pushbuttons to turn on the LED, while the other project uses a resistive sensor to control an LED and display darkness levels on an LCD.
